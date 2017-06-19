@@ -6,5 +6,7 @@ public class HelloWorld {
         
         System.out.println("This is a demo!");
         
+        System.out.println("This is another");
+        
     }
 }
